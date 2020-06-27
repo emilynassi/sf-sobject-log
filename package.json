@@ -1,0 +1,24 @@
+{
+  "name": "sf-sobject-log",
+  "version": "1.0.0",
+  "description": "changelog for sobjects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sobject",
+    "changelog",
+    "salesforce"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "exceljs": "^4.0.1",
+    "jsforce": "^1.9.3",
+    "moment": "^2.26.0"
+  },
+  "bin": {
+    "sf-sobject-log": "./bin/sf-sobject-log"
+  }
+}

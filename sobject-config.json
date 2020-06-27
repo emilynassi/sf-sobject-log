@@ -1,0 +1,14 @@
+[
+  {
+    "sobject" : "Product2",
+    "matchBy" : "Name"
+  },
+  {
+    "sobject" : "Contact",
+    "matchBy" : "Name"
+  },
+  {
+    "sobject" : " Account",
+    "matchBy" : "Name"
+  }
+]
