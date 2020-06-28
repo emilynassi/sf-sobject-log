@@ -1,7 +1,7 @@
 # SF sObject Log
 ---
 
-A simple command line application to build out a SCSS directory to make your styles easier to manage. Features starter partial files for variables, fonts, and mixins, and a Gulpfile to automatically minify and compile CSS.
+Output a changelog of all modified Salesforce sObject records for the day through the command line.
 
 ## Dependencies
 * <a href="https://github.com/forcedotcom/cli">Salesforce DX</a>
@@ -11,7 +11,7 @@ A simple command line application to build out a SCSS directory to make your sty
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `git@github.com:emilynassi/sf-sobject-log.git`
 
 ### Setup
 
