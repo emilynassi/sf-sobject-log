@@ -16,7 +16,7 @@
     "commander": "^5.1.0",
     "exceljs": "^4.0.1",
     "jsforce": "^1.9.3",
-    "moment": "^2.26.0"
+    "moment": "^2.29.4"
   },
   "bin": {
     "sf-sobject-log": "./bin/sf-sobject-log"
